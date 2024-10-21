@@ -38,5 +38,5 @@
 </div>
 </div>
 <br>
-### :fire: Моя стата:<br>
+:fire: Моя стата:<br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Emerhog&theme=dark&hide_border=true&locale=ru" alt="GitHub Streak" /></a>
