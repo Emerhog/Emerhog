@@ -1,4 +1,6 @@
 <div align="center">
+  ┐(︶▽︶)┌ &emsp;&emsp;&emsp;  HELLO WORLD! &emsp;&emsp;&emsp;  σ(￣、￣〃)
+  <hr>
   <a href="https://radikal.host/i/lzWsyK"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2N1bXhlb3FyeDhydG9jNGh1NXZqcTYxdWoxb3c5ZTNsdjI5MnY2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pVWuLuV1JESZJdebkI/giphy.gif" border="0"></a>
   <br>
   <div>
