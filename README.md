@@ -20,9 +20,9 @@
   <br>
 </div>
 
-<div>
+<div align="center">
     :hammer_and_wrench: Языки и инструменты:
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
@@ -38,8 +38,11 @@
 </div>
 </div>
 <br>
+<div align="center">
 :fire: Моя стата:<br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Emerhog&theme=dark&hide_border=true&locale=ru" alt="GitHub Streak" /></a><br>
+</div>
+<br>
 <div flex-direction="row" align="center">
 <img src="https://e.radikal.host/2024/10/21/1mitsuri.gif" alt="1mitsuri.md.gif" border="0">
 <img src="https://e.radikal.host/2024/10/21/2mitsuri.gif" alt="1mitsuri.md.gif" border="0">
