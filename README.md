@@ -40,3 +40,4 @@
 <br>
 :fire: Моя стата:<br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Emerhog&theme=dark&hide_border=true&locale=ru" alt="GitHub Streak" /></a>
+<a href="https://radikal.host/i/lzaF2W"><img src="https://e.radikal.host/2024/10/21/1mitsuri.md.gif" alt="1mitsuri.md.gif" border="0"></a>
