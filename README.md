@@ -40,10 +40,10 @@
 <br>
 :fire: Моя стата:<br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Emerhog&theme=dark&hide_border=true&locale=ru" alt="GitHub Streak" /></a><br>
-<div flex-direction="row">
+<div flex-direction="row" align="center">
 <img src="https://e.radikal.host/2024/10/21/1mitsuri.gif" alt="1mitsuri.md.gif" border="0">
 <img src="https://e.radikal.host/2024/10/21/2mitsuri.gif" alt="1mitsuri.md.gif" border="0">
-<img src="https://e.radikal.host/2024/10/21/3mitsuri.gif" alt="1mitsuri.md.gif" border="0">
+<img src="https://e.radikal.host/2024/10/21/3mitsuri9aaddf12ac252ced.gif" alt="1mitsuri.md.gif" border="0">
 <img src="https://e.radikal.host/2024/10/21/4mitsuri.gif" alt="1mitsuri.md.gif" border="0">
 <img src="https://e.radikal.host/2024/10/21/5mitsuri.gif" alt="1mitsuri.md.gif" border="0">
 </div>
