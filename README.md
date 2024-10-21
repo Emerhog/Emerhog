@@ -50,3 +50,6 @@
 <img src="https://e.radikal.host/2024/10/21/4mitsuri.gif" alt="1mitsuri.md.gif" border="0">
 <img src="https://e.radikal.host/2024/10/21/5mitsuri.gif" alt="1mitsuri.md.gif" border="0">
 </div>
+<div align="center">
+<p>Если гифки в разноброс, то обновите страницу</p>
+</div>
